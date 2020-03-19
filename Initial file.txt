@@ -1,7 +1,5 @@
-Hello
+Hello good evening 
 
-Git
-
-World
+Git practice
 
 Welcome :)
