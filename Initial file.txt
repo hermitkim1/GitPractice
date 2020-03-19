@@ -1,8 +1,6 @@
 Hello good evening 
 
-Git practice
-
-Welcome :)
+Git HI   hello
 
 Imma Imma first class rider~
 International~~
@@ -10,3 +8,5 @@ International~~
 let me out!
 
 55555555555555555555
+
+Welcome :)
